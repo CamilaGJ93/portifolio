@@ -80,10 +80,10 @@ ul, li, a {
 
 .menu a {
     /*border: solid 2px #cccccc6b;*/
-    border: solid 2px var(--color_primary);
-    /*border: solid 2px rgba(0, 0, 255, 0.466);*/
+    border: solid 4px var(--color_primary);
+    /*border: solid 4px rgba(0, 0, 255, 0.466);*/
     padding: .15em .5em;
-    border-radius: 15px;
+    border-radius: 25px;
     /*border-radius: 35px;*/
     margin-top: 0.2rem;
 
@@ -172,8 +172,8 @@ p{
 
 
 .imagem_autora {
-    width: 50%;
-    height: 50px;
+    width: 60%;
+    height: 60px;
     /*border-radius: 100px;*/
     border-radius: 50%;
     border: 1px solid rgb(51, 24, 24);
