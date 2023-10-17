@@ -1,0 +1,137 @@
+/* index1.html */
+
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8a0b51;
+    color: #ffffffcb;
+    text-align: center;
+    padding: 20px;
+}
+
+.perfil{
+
+    background-color: #0e0208;
+    color: #ffffffcb;
+
+}
+
+p {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff7c;
+    border: 2cqh solid #4e4040;
+    box-shadow: 0 0 10px rgba(12, 8, 8, 0.1);
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #131111;
+    color: #ffffff4f;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/*copia-academica*/
+
+
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: #f3f3f307;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #326dc7;
+    color: #ffffff6e;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+    p {
+        font-size: 14px;
+    }
+}
+
+
+/*meus_projetos*/
+
+
+ul li {
+    list-style: none;
+    padding: 0;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
